@@ -1,0 +1,1 @@
+# Data-generation-using-VAE-for-Burgers-s-equation
